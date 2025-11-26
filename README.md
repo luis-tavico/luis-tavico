@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis-tavico&show_icons=true&locale=es" height="160" alt="stats" />
-</
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luis-tavico&show_icons=true&locale=es" height="160" alt="stats" />
+</p>
